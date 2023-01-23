@@ -10,7 +10,7 @@ h1{
     justify-content: center;
     letter-spacing: 5px;
     background-color: #FAF8F1;
-    
+    --bs-bg-opacity: #FAF8F1;
 }
 body{
     background-color: #FAF8F1;
@@ -50,6 +50,7 @@ header img {
     height: 10%;
     width: 16%;
     border: none;
+    text-align: center;
 }
 .barra{
     background-color: #FAF8F1;
