@@ -1,0 +1,63 @@
+.navbar{ 
+    background-color: #FAF8F1;  
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+   letter-spacing: 15px;
+}
+.navbar{
+    justify-content: center;
+    letter-spacing: 5px;
+    background-color: #FAF8F1;
+    
+}
+body{
+    background-color: #FAF8F1;
+    font-family: 'Comfortaa Bold Alt2';
+
+}
+.nav-item{
+    text-transform: uppercase;
+    letter-spacing: 5px;;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-fluid{
+    word-spacing: 50px;
+}
+img{
+    width: 412px;
+    height: 697px;
+    object-fit: cover;
+    border-style: solid ;
+    border-color: black;
+}
+.img1{
+    margin: 99px 0px 10px calc((100% -980px)*0.5);
+    left: -128px;
+    justify-self: start;
+}
+.img2{
+    margin: 250px 0px 41px calc((100% -980px)*0.5);
+    left: 748px;
+}
+header img {
+    background-size: cover;
+    background-position: center;
+    margin-top: auto;
+  }
+.img-logo{
+    height: 10%;
+    width: 16%;
+    border: none;
+}
+.barra{
+    background-color: #FAF8F1;
+}
+.card-img-top {
+
+        object-fit: cover;
+    }
+
+  
+  
