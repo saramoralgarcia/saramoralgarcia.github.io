@@ -1,7 +1,7 @@
 .navbar{ 
     background-color: #FAF8F1;  
 }
-h1{
+.h{
     text-transform: uppercase;
     text-align: center;
    letter-spacing: 15px;
@@ -15,7 +15,6 @@ h1{
 body{
     background-color: #FAF8F1;
     font-family: 'Comfortaa Bold Alt2';
-
 }
 .nav-item{
     text-transform: uppercase;
@@ -32,15 +31,7 @@ img{
     border-style: solid ;
     border-color: black;
 }
-.img1{
-    margin: 99px 0px 10px calc((100% -980px)*0.5);
-    left: -128px;
-    justify-self: start;
-}
-.img2{
-    margin: 250px 0px 41px calc((100% -980px)*0.5);
-    left: 748px;
-}
+
 header img {
     background-size: cover;
     background-position: center;
@@ -55,10 +46,10 @@ header img {
 .barra{
     background-color: #FAF8F1;
 }
-.card-img-top {
-
-        object-fit: cover;
-    }
-
-  
+.text-primary {
+    color:#90C8AC !important;
+  }
+.price{
+    font-size: 24px;
+}
   
