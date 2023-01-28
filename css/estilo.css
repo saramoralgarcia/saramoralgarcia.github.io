@@ -24,7 +24,7 @@ body{
 .container-fluid{
     word-spacing: 50px;
 }
-img{
+.img{
     width: 412px;
     height: 697px;
     object-fit: cover;
@@ -52,5 +52,12 @@ header img {
 .photo{
     padding-left: 5px;
 }
-
+.card {
+    margin-bottom: 20px;
+  }
+  
+  .card:hover {
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  }
+  
   

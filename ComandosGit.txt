@@ -1,0 +1,9 @@
+GIT
+Pasos a seguir cuando modificamos el código y queremos subirlo a github.
+
+primero:
+git add . --> añadir todo lo que hemos modificado.
+git status --> vemos lo que hemos añadido.
+git commit -m "aquí dentro texto que nos explique que hemos hecho en el proceso" --> subir al repo local.
+git push origin main(origin main es donde queremos subirlo pero dependera de donde quiera que se suba) --> es el último paso para subir a github.
+
