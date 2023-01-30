@@ -59,5 +59,11 @@ header img {
   .card:hover {
     box-shadow: 0 0 10px rgba(0,0,0,0.3);
   }
+  .bg-image {
+    background-image: url("../2.png");
+    background-size: cover;
+    background-position: center;
+  }
+  
   
   
